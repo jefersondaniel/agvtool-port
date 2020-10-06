@@ -1,0 +1,3 @@
+[console_scripts]
+agvtool = agvtool_port.__main__:__main__
+

@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+.cache
+.coverage
+.coverage.*
+coverage.xml
+venv/
+dist/
+build/
+agvtool_port.egg-info/
+var/
+.pytest_cache/
