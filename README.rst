@@ -3,6 +3,8 @@ AGVTOOL port for python
 
 Automating Version and Build Numbers
 
+Based on: https://developer.apple.com/library/archive/qa/qa1827/_index.html
+
 Installation
 ~~~~~~~~~~~~
 pip3 install agvtool_port
