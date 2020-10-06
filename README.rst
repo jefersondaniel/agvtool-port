@@ -11,8 +11,11 @@ Usage
 ~~~~~~~~~~~~
 
 agvtool new-version -all 1722
+
 agvtool new-marketing-version 1.0.0
+
 agvtool what-version
+
 agvtool what-marketing-version
 
 TODO
